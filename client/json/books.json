@@ -1,0 +1,274 @@
+[
+    {
+        "categoria": "Romance",
+        "nome": "Verity",
+        "autor": "Colleen Hoover",
+        "editora": "Galera",
+        "ano": "2018",
+        "capa": "https://m.media-amazon.com/images/I/91SDZ2eUj+L._AC_UF1000,1000_QL80_.jpg",
+        "ondeComprar": "Amazon",
+        "valor": "R$ 29,90"
+    },
+    {
+        "categoria": "Romance",
+        "nome": "Os Sete Maridos de Evelyn Hugo",
+        "autor": "Taylor Jenkins Reid",
+        "editora": "Paralela",
+        "ano": "2017",
+        "capa": "https://m.media-amazon.com/images/I/91yEPgRcELL._AC_UF1000,1000_QL80_.jpg",
+        "ondeComprar": "Submarino",
+        "valor": "R$ 34,90"
+    },
+    {
+        "categoria": "Romance",
+        "nome": "Daisy Jones and The Six",
+        "autor": "Taylor Jenkins",
+        "editora": "Paralela",
+        "ano": "2019",
+        "capa": "https://m.media-amazon.com/images/I/91KL76cFphL._AC_UF1000,1000_QL80_.jpg",
+        "ondeComprar": "Americanas",
+        "valor": "R$ 39,90"
+    },
+    {
+        "categoria": "Romance",
+        "nome": "O amor não é óbvio",
+        "autor": "Elayne Baeta",
+        "editora": "Galera",
+        "ano": "2019",
+        "capa": "https://books.google.com.br/books/publisher/content?id=Jy6-DwAAQBAJ&hl=pt-BR&pg=PP1&img=1&zoom=3&bul=1&sig=ACfU3U1HEz8-MlOp9PxUHNqJ0MEtdAR51g&w=1280",
+        "sinopse": "A história conta sobre uma menina que está descobrindo sua sexualidade durante a adolescencia e acaba se apaixonando por uma garota da escola",
+        "estrelas": "★★★★",
+        "ondeComprar": "Saraiva",
+        "valor": "R$ 27,90"
+    },
+    {
+        "categoria": "Romance",
+        "nome": "Sadie",
+        "autor": "Courtney Summers",
+        "editora": "Principis",
+        "ano": "2018",
+        "capa": "https://m.media-amazon.com/images/I/810mDUFGZFL._AC_UF894,1000_QL80_.jpg",
+        "ondeComprar": "Livraria Cultura",
+        "valor": "R$ 32,90"
+    },
+    {
+        "categoria": "Romance",
+        "nome": "Orgulho e Preconceito",
+        "autor": "Jane Austen",
+        "editora": "Martin Claret",
+        "ano": "1813",
+        "capa": "https://m.media-amazon.com/images/I/719esIW3D7L._AC_UF1000,1000_QL80_.jpg",
+        "ondeComprar": "Livraria da Folha",
+        "valor": "R$ 19,90"
+    },
+    {
+        "categoria": "Romance",
+        "nome": "Quem é você Alaska",
+        "autor": "John Green",
+        "editora": "Intrínseca",
+        "ano": "2012",
+        "capa": "https://m.media-amazon.com/images/I/715+3WHXWyL._AC_UF1000,1000_QL80_.jpg",
+        "ondeComprar": "Amazon",
+        "valor": "R$ 24,90"
+    },
+    {
+        "categoria": "Fantasia",
+        "nome": "Sombra e Ossos",
+        "autor": "Leigh Bardugo",
+        "editora": "Planeta Minotauro",
+        "ano": "2021",
+        "capa": "https://m.media-amazon.com/images/I/81WKPIFKThL._AC_UF1000,1000_QL80_.jpg",
+        "ondeComprar": "Submarino",
+        "valor": "R$ 42,90"
+    },
+    {
+        "categoria": "Fantasia",
+        "nome": "O Hobbit",
+        "autor": "J. R. R. Tolkien",
+        "editora": "HarperCollins",
+        "ano": "1937",
+        "capa": "ignora por enquanto",
+        "ondeComprar": "Americanas",
+        "valor": "R$ 29,90"
+    },
+    {
+        "categoria": "Fantasia",
+        "nome": "A Rainha Vermelha",
+        "autor": "Victoria Aveyard",
+        "editora": "Seguinte",
+        "ano": "2015",
+        "capa": "https://m.media-amazon.com/images/I/41pZtBIcGhL.jpg",
+        "ondeComprar": "Saraiva",
+        "valor": "R$ 35,90"
+    },
+    {
+        "categoria": "Fantasia",
+        "nome": "Jogos Vorazes",
+        "autor": "Suzanne Collins",
+        "editora": "Rocco",
+        "ano": "2008",
+        "capa": "https://rocco.com.br/app/uploads/2022/12/9786555321449.jpg",
+        "ondeComprar": "Livraria Cultura",
+        "valor": "R$ 29,90"
+    },
+    {
+        "categoria": "Fantasia",
+        "nome": "As Crônicas de Nárnia",
+        "autor": "C. S. Lewis",
+        "editora": "WMF Martins Fontes",
+        "ano": "1950",
+        "capa": "ignora por enquanto",
+        "ondeComprar": "Livraria da Folha",
+        "valor": "R$ 49,90"
+    },
+    {
+        "categoria": "Fantasia",
+        "nome": "Quarta Asa",
+        "autor": "Rebecca Yarros",
+        "editora": "Planeta Minotauro",
+        "ano": "2023",
+        "capa": "https://imagens.disal.com.br/produtos/ampliada/9913440.jpg",
+        "ondeComprar": "Amazon",
+        "valor": "R$ 39,90"
+    },
+    {
+        "categoria": "Terror",
+        "nome": "It - A Coisa",
+        "autor": "Stephen King",
+        "editora": "Suma",
+        "ano": "2014",
+        "capa": "https://m.media-amazon.com/images/I/91g9Dvtf+jL._AC_UF1000,1000_QL80_.jpg",
+        "ondeComprar": "Submarino",
+        "valor": "R$ 45,90"
+    },
+    {
+        "categoria": "Terror",
+        "nome": "Frankenstein",
+        "autor": "Mary Shelley",
+        "editora": "Darkside",
+        "ano": "1818",
+        "capa": "https://m.media-amazon.com/images/I/91Kz+sC5X0L._AC_UF1000,1000_QL80_.jpg",
+        "ondeComprar": "Americanas",
+        "valor": "R$ 39,90"
+    },
+    {
+        "categoria": "Terror",
+        "nome": "O Colecionador",
+        "autor": "John Fowles",
+        "editora": "Darkside",
+        "ano": "1963",
+        "capa": "https://livrariascuritiba.vteximg.com.br/arquivos/ids/2147572-1000-1000/lv428561_1.jpg?v=638272740067370000",
+        "ondeComprar": "Saraiva",
+        "valor": "R$ 34,90"
+    },
+    {
+        "categoria": "Terror",
+        "nome": "O Vilarejo",
+        "autor": "Raphael Mones",
+        "editora": "Suma",
+        "ano": "2015",
+        "capa": "https://m.media-amazon.com/images/I/81JaIN9NExL._AC_UF1000,1000_QL80_.jpg",
+        "ondeComprar": "Livraria Cultura",
+        "valor": "R$ 29,90"
+    },
+    {
+        "categoria": "Terror",
+        "nome": "O Bebê de Rosemary",
+        "autor": "Ira Levin",
+        "editora": "Darkside",
+        "ano": "1967",
+        "capa": "https://m.media-amazon.com/images/I/61cJnBopcWL._AC_UF1000,1000_QL80_.jpg",
+        "ondeComprar": "Livraria da Folha",
+        "valor": "R$ 42,90"
+    },
+    {
+        "categoria": "Terror",
+        "nome": "O Exorcista",
+        "autor": "William Peter Blatty",
+        "editora": "HarperCollins",
+        "ano": "1971",
+        "capa": "ignora por enquanto",
+        "ondeComprar": "Amazon",
+        "valor": "R$ 39,90"
+    },
+    {
+        "categoria": "Ficção Científica",
+        "nome": "O Conto da Aia",
+        "autor": "Margaret Atwood",
+        "editora": "Rocco",
+        "ano": "1985",
+        "capa": "https://m.media-amazon.com/images/I/71ryU-o5eEL._AC_UF1000,1000_QL80_.jpg",
+        "ondeComprar": "Submarino",
+        "valor": "R$ 29,90"
+    },
+    {
+        "categoria": "Ficção Científica",
+        "nome": "Neuromancer",
+        "autor": "William Gibson",
+        "editora": "Aleph",
+        "ano": "1984",
+        "capa": "https://m.media-amazon.com/images/I/91kDNxO-aSL._AC_UF1000,1000_QL80_.jpg",
+        "ondeComprar": "Americanas",
+        "valor": "R$ 34,90"
+    },
+    {
+        "categoria": "Ficção Científica",
+        "nome": "A Máquina do Tempo",
+        "autor": "H. G. Wells",
+        "editora": "Principis",
+        "ano": "1895",
+        "capa": "https://m.media-amazon.com/images/I/81UwH1pLBWL._AC_UF1000,1000_QL80_.jpg",
+        "ondeComprar": "Saraiva",
+        "valor": "R$ 19,90"
+    },
+    {
+        "categoria": "Ficção Científica",
+        "nome": "Admirável Mundo Novo",
+        "autor": "Aldous Huxley",
+        "editora": "Biblioteca Azul",
+        "ano": "1932",
+        "capa": "https://m.media-amazon.com/images/I/91ATZI28yLL._AC_UF1000,1000_QL80_.jpg",
+        "ondeComprar": "Livraria Cultura",
+        "valor": "R$ 29,90"
+    },
+    {
+        "categoria": "Ficção Científica",
+        "nome": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "editora": "Globo Livros",
+        "ano": "1953",
+        "capa": "ignora por enquanto",
+        "ondeComprar": "Livraria da Folha",
+        "valor": "R$ 39,90"
+    },
+    {
+        "categoria": "Ficção Científica",
+        "nome": "A Longa Viagem a um Pequeno Planeta Hostil",
+        "autor": "Becky Chambers",
+        "editora": "Darkside",
+        "ano": "2014",
+        "capa": "https://m.media-amazon.com/images/I/81f7FGJ8vhL._AC_UF1000,1000_QL80_.jpg",
+        "ondeComprar": "Amazon",
+        "valor": "R$ 45,90"
+    },
+    {
+        "categoria": "Ficção Científica",
+        "nome": "Duna",
+        "autor": "Frank Herbert",
+        "editora": "Aleph",
+        "ano": "1965",
+        "capa": "https://m.media-amazon.com/images/I/91KkWf50SoL._AC_UF1000,1000_QL80_.jpg",
+        "ondeComprar": "Submarino",
+        "valor": "R$ 49,90"
+    },
+    {
+        "categoria": "Ficção Científica",
+        "nome": "Eu, Robô",
+        "autor": "Isaac Asimov",
+        "editora": "Aleph",
+        "ano": "1950",
+        "capa": "https://m.media-amazon.com/images/I/91sD3HIptNL._AC_UF1000,1000_QL80_.jpg",
+        "ondeComprar": "Americanas",
+        "valor": "R$ 34,90"
+    }
+]

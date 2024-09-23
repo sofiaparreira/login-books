@@ -1,0 +1,62 @@
+[
+    {
+        "categoria": "Ficção Científica",
+        "nome": "1984",
+        "autor": "George Orwell",
+        "editora": "Principis",
+        "ano": "1949",
+        "capa": "https://m.media-amazon.com/images/I/61t0bwt1s3L._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★★"
+    },
+    {
+        "categoria": "Ficção Científica",
+        "nome": "Duna",
+        "autor": "Frank Herbert",
+        "editora": "Aleph",
+        "ano": "1965",
+        "capa": "https://m.media-amazon.com/images/I/81zN7udGRUL._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★★"
+    },
+    {
+        "categoria": "Ficção Científica",
+        "nome": "O Conto da Aia",
+        "autor": "Margaret Atwood",
+        "editora": "Rocco",
+        "ano": "1985",
+        "capa": "https://doispontos.vteximg.com.br/arquivos/ids/169383-1000-1500/9786555320947_1.jpg?v=637587856048530000",
+                "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★★"
+    },
+    {
+        "categoria": "Ficção Científica",
+        "nome": "Flores para Algernon",
+        "autor": "Daniel Keyes",
+        "editora": "Aleph",
+        "ano": "1959",
+        "capa": "https://m.media-amazon.com/images/I/71VrMtcmE9L._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★★"
+    },
+    {
+        "categoria": "Ficção Científica",
+        "nome": "Matéria escura",
+        "autor": "Blake Crouch",
+        "editora": "Intrínseca",
+        "ano": "2016",
+        "capa": "https://m.media-amazon.com/images/I/61jH-BJ01iL._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★★"
+    },
+    {
+        "categoria": "Ficção Científica",
+        "nome": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "editora": "Biblioteca Azul",
+        "ano": "1953",
+        "capa": "https://m.media-amazon.com/images/I/51tAD6LyZ-L._AC_UF1000,1000_QL80_.jpg",
+                "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★★"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "categoria": "Mistério",
+        "nome": "A empregada",
+        "autor": "Freida McFadden",
+        "editora": "Arqueiro",
+        "ano": "2023",
+        "capa": "https://m.media-amazon.com/images/I/81BdpMhm3iL._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★"
+    },
+    {
+        "categoria": "Mistério",
+        "nome": "Sadie",
+        "autor": "Courtney Summers",
+        "editora": "Principis",
+        "ano": "2018",
+        "capa": "https://m.media-amazon.com/images/I/810mDUFGZFL._AC_UF894,1000_QL80_.jpg",
+        "sinopse": "A história é contada através de dois pontos de vista alternados: o de Sadie, uma jovem determinada em busca de vingança após o assassinato de sua irmã, e o de um podcastista investigativo que tenta desvendar o que aconteceu com Sadie após o seu desaparecimento. O livro explora temas como trauma, abuso, determinação e os laços profundos entre irmãs, criando uma narrativa intensa que mergulha fundo na psicologia dos personagens.",
+        "estrelas": "★★★"
+    },
+    {
+        "categoria": "Mistério",
+        "nome": "Jantar Secreto",
+        "autor": "Raphael Montes",
+        "editora": "Companhia das Letras",
+        "ano": "2016",
+        "capa": "https://m.media-amazon.com/images/I/71AeB1+8dZL._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★★"
+    },
+    {
+        "categoria": "Mistério",
+        "nome": "Os cinco porquinhos",
+        "autor": "Agatha Christie",
+        "editora": "Globo",
+        "ano": "1942",
+        "capa": "https://m.media-amazon.com/images/I/71maZuSfKdL._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★"
+    },
+    {
+        "categoria": "Mistério",
+        "nome": "A última festa",
+        "autor": "Lucy Foley",
+        "editora": "Intrínseca",
+        "ano": "2020",
+        "capa": "https://m.media-amazon.com/images/I/71gayVVXUpL._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★★"
+    },
+    {
+        "categoria": "Mistério",
+        "nome": "A Paciente Silenciosa",
+        "autor": "Alex Michaelides",
+        "editora": "Record",
+        "ano": "2019",
+        "capa": "https://m.media-amazon.com/images/I/41J3FApF8yL.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★★"
+    },
+    {
+        "categoria": "Mistério",
+        "nome": "E Não Sobrou Nenhum",
+        "autor": "Agatha Christie",
+        "editora": "Globo",
+        "ano": "1939",
+        "capa": "https://m.media-amazon.com/images/I/71u9uqTYBcL._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★★"
+    }
+]

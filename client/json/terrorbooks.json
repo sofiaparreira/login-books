@@ -1,0 +1,62 @@
+[
+    {
+        "categoria": "Terror",
+        "nome": "It - A Coisa",
+        "autor": "Stephen King",
+        "editora": "Suma",
+        "ano": "2014",
+        "capa": "https://m.media-amazon.com/images/I/51z0s3GcvwL.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★★"
+    },
+    {
+        "categoria": "Terror",
+        "nome": "Frankenstein",
+        "autor": "Mary Shelley",
+        "editora": "Darkside",
+        "ano": "1818",
+        "capa": "https://m.media-amazon.com/images/I/91Kz+sC5X0L._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★★"
+    },
+    {
+        "categoria": "Terror",
+        "nome": "O Colecionador",
+        "autor": "John Fowles",
+        "editora": "Darkside",
+        "ano": "1963",
+        "capa": "https://livrariascuritiba.vteximg.com.br/arquivos/ids/2147572-1000-1000/lv428561_1.jpg?v=638272740067370000",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★★"
+    },
+    {
+        "categoria": "Terror",
+        "nome": "O Vilarejo",
+        "autor": "Raphael Montes",
+        "editora": "Suma",
+        "ano": "2015",
+        "capa": "https://m.media-amazon.com/images/I/81JaIN9NExL._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★★"
+    },
+    {
+        "categoria": "Terror",
+        "nome": "O Bebê de Rosemary",
+        "autor": "Ira Levin",
+        "editora": "Darkside",
+        "ano": "1967",
+        "capa": "https://m.media-amazon.com/images/I/61EJd9oPopL._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★★"
+    },
+    {
+        "categoria": "Terror",
+        "nome": "O Exorcista",
+        "autor": "William Peter Blatty",
+        "editora": "HarperCollins",
+        "ano": "1971",
+        "capa": "https://m.media-amazon.com/images/I/91fQ51I4TRL._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★★"
+    }
+]

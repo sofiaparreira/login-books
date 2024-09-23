@@ -1,0 +1,62 @@
+[
+    {
+        "categoria": "Fantasia",
+        "nome": "Sombra e Ossos",
+        "autor": "Leigh Bardugo",
+        "editora": "Planeta Minotauro",
+        "ano": "2021",
+        "capa": "https://m.media-amazon.com/images/I/81WKPIFKThL._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★"
+    },
+    {
+        "categoria": "Fantasia",
+        "nome": "O Hobbit",
+        "autor": "J. R. R. Tolkien",
+        "editora": "HarperCollins",
+        "ano": "1937",
+        "capa": "https://m.media-amazon.com/images/I/91M9xPIf10L._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★"
+    },
+    {
+        "categoria": "Fantasia",
+        "nome": "A Rainha Vermelha",
+        "autor": "Victoria Aveyard",
+        "editora": "Seguinte",
+        "ano": "2015",
+        "capa": "https://m.media-amazon.com/images/I/41pZtBIcGhL.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★"
+    },
+    {
+        "categoria": "Fantasia",
+        "nome": "Jogos Vorazes",
+        "autor": "Suzanne Collins",
+        "editora": "Rocco",
+        "ano": "2008",
+        "capa": "https://rocco.com.br/app/uploads/2022/12/9786555321449.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★"
+    },
+    {
+        "categoria": "Fantasia",
+        "nome": "As Crônicas de Nárnia",
+        "autor": "C. S. Lewis",
+        "editora": "WMF Martins Fontes",
+        "ano": "1950",
+        "capa": "https://m.media-amazon.com/images/I/71yJLhQekBL._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★"
+    },
+    {
+        "categoria": "Fantasia",
+        "nome": "Quarta Asa",
+        "autor": "Rebecca Yarros",
+        "editora": "Planeta Minotauro",
+        "ano": "2023",
+        "capa": "https://imagens.disal.com.br/produtos/ampliada/9913440.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★"
+    }
+]

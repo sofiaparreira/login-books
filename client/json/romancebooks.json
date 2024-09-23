@@ -1,0 +1,62 @@
+[
+    {
+        "categoria": "Romance",
+        "nome": "Verity",
+        "autor": "Colleen Hoover",
+        "editora": "Galera",
+        "ano": "2018",
+        "capa": "https://m.media-amazon.com/images/I/91SDZ2eUj+L._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "A história começa com uma escritora que recebe a oportunidade de terminar uma série de livros de uma autora best-sellers que se acidentou. Ao explorar a casa do autor para pesquisa, Lowen descobre manuscritos perturbadores escritos por Verity Crawford, a esposa do autor, revelando segredos chocantes sobre o passado da família Crawford. Conforme Lowen mergulha mais fundo na vida de Verity, ela se vê enredada em uma teia de mentiras, obsessão e perigo, colocando sua própria vida em risco enquanto tenta desvendar a verdade por trás dos escritos perturbadores de Verity.",
+        "estrelas": "★★★★★"
+    },
+    {
+        "categoria": "Romance",
+        "nome": "Os Sete Maridos de Evelyn Hugo",
+        "autor": "Taylor Jenkins Reid",
+        "editora": "Paralela",
+        "ano": "2017",
+        "capa": "https://m.media-amazon.com/images/I/91yEPgRcELL._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "A história se desenrola quando Evelyn Hugo, uma atriz famosa, decide revelar sua vida pessoal e profissional de forma completa a uma jovem jornalista iniciante, Monique Grant. Ao longo do livro exploramos os sete casamentos de Evelyn e as complexidades de sua carreira no cinema, enquanto segredos profundos vêm à tona.",
+        "estrelas": "★★★★★"
+    },
+    {
+        "categoria": "Romance",
+        "nome": "O amor não é óbvio",
+        "autor": "Elayne Baeta",
+        "editora": "Galera",
+        "ano": "2019",
+        "capa": "https://books.google.com.br/books/publisher/content?id=Jy6-DwAAQBAJ&hl=pt-BR&pg=PP1&img=1&zoom=3&bul=1&sig=ACfU3U1HEz8-MlOp9PxUHNqJ0MEtdAR51g&w=1280",
+        "sinopse": "A história conta sobre uma menina que está descobrindo sua sexualidade durante a adolescencia e acaba se apaixonando por uma garota da escola",
+        "estrelas": "★★★★"
+    },
+    {
+        "categoria": "Romance",
+        "nome": "Orgulho e Preconceito",
+        "autor": "Jane Austen",
+        "editora": "Martin Claret",
+        "ano": "1813",
+        "capa": "https://m.media-amazon.com/images/I/719esIW3D7L._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "A história gira em torno da vida da protagonista Elizabeth Bennet e seu complexo relacionamento com Sr. Darcy. Ambientado na Inglaterra do século XIX, o livro explora temas como amor, casamento, status social e preconceito.",
+        "estrelas": "★★★★"
+    },
+    {
+        "categoria": "Romance",
+        "nome": "Quem é você Alaska",
+        "autor": "John Green",
+        "editora": "Intrínseca",
+        "ano": "2012",
+        "capa": "https://m.media-amazon.com/images/I/715+3WHXWyL._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "A história gira em torno de Miles Halter, um adolescente fascinado pelas últimas palavras de pessoas famosas, que decide deixar sua vida monótona para frequentar um internato no Alabama em busca de uma Grande Talvez. Lá, ele faz novos amigos, incluindo o enigmático e sedutor Alasca Young, por quem se apaixona. O livro explora temas como amor, amizade, perda e autodescoberta, culminando em um evento trágico que desafia Miles e seus amigos a confrontar suas próprias limitações e entender o significado da vida.",
+        "estrelas": "★★★★★"
+    },
+    {
+        "categoria": "Romance",
+        "nome": "Daisy Jones and The Six",
+        "autor": "Taylor Jenkins",
+        "editora": "Paralela",
+        "ano": "2019",
+        "capa": "https://m.media-amazon.com/images/I/91KL76cFphL._AC_UF1000,1000_QL80_.jpg",
+        "sinopse": "Conta a história de uma jovem talentosa em busca de sua identidade e propósito no mundo da música. Ao se unir à uma banda promissora chamada The Six, Daisy Jones é lançada em um turbilhão de emoções, amizades intensas e desafios musicais. Ela descobre não apenas seu lugar na banda, mas também o poder transformador da música em sua vida.",
+        "estrelas": "★★★★"
+    }
+]
